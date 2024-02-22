@@ -1,0 +1,21 @@
+
+{
+    "user1": {
+        "Username": "Somu",
+        "password": "Somu@234",
+        "profession": "Backend",
+        "id" : 19
+    },
+    "user2": {
+        "Username": "gali",
+        "password": "Gali@234",
+        "profession": "Backend",
+        "id" : 15
+    },
+    "user3": {
+        "Username": "Sai",
+        "password": "Sai@234",
+        "profession": "Backend",
+        "id" : 11
+    }
+}
